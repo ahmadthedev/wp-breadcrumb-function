@@ -34,10 +34,8 @@ function dv_breadcrumb() {
 			_e( 'Blog Archives', 'text_domain' );
 		}
 	} elseif ( is_single() ) {
-		echo $sep;
 		the_title();
 	} elseif ( is_page() ) {
-		echo $sep;
 		echo the_title();
 	} elseif ( is_search() ) {
 		echo $sep . "Search Results for ";
