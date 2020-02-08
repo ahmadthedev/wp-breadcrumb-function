@@ -2,7 +2,6 @@
 // Wordpress Breadcrumb Function
 // This code add into your theme function file.
 
-// Updated form of https://gist.github.com/tinotriste/5387124
 
 function dv_breadcrumb() {
 	$sep = "&nbsp;&nbsp;&#187;&nbsp;&nbsp;";
