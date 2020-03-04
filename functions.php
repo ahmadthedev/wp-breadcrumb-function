@@ -67,7 +67,7 @@ function dv_breadcrumb() {
   } elseif ( is_page() ) {
    echo the_title();
   } elseif ( is_search() ) {
-   echo $sep . "Search Results for ";
+   echo "Search Results for ";
    echo '"<em>';
    echo the_search_query();
    echo '</em>"';
