@@ -2,7 +2,7 @@
 
 Paste the `functions.php` code in your function file and call that function where you want to display breadcrumb.
 
-#### V 1.2
+#### V 1.1
 
 This function updated and now supported to `custom taxonomy`, `custom post type` and `parent/child pages`. Also updated `archive (day, month, year) part`
 
