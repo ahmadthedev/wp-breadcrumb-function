@@ -1,7 +1,4 @@
 # WP BreadCrumb Function
-
-<b>Tutorial:</b> https://www.ahmedhere.com/tutorials/wordpress/how-to-create-a-custom-wordpress-breadcrumb-without-a-plugin/
-
 Paste the `functions.php` code in your function file and call that function where you want to display breadcrumb.
 
 #### V 1.1
